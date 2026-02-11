@@ -1,0 +1,40 @@
+-------------------------------------------------------------------------------
+Test set: com.shopscale.config.ConfigServerApplicationTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 3, Errors: 0, Skipped: 0, Time elapsed: 8.292 s <<< FAILURE! -- in com.shopscale.config.ConfigServerApplicationTest
+com.shopscale.config.ConfigServerApplicationTest.configServerCanServeProductServiceConfiguration -- Time elapsed: 1.374 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: 
+
+expected: 200 OK
+ but was: 500 INTERNAL_SERVER_ERROR
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at com.shopscale.config.ConfigServerApplicationTest.configServerCanServeProductServiceConfiguration(ConfigServerApplicationTest.java:50)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+
+com.shopscale.config.ConfigServerApplicationTest.configServerCanServeConfiguration -- Time elapsed: 0.020 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: 
+
+expected: 200 OK
+ but was: 500 INTERNAL_SERVER_ERROR
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at com.shopscale.config.ConfigServerApplicationTest.configServerCanServeConfiguration(ConfigServerApplicationTest.java:41)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+
+com.shopscale.config.ConfigServerApplicationTest.configServerIsRunning -- Time elapsed: 1.070 s <<< FAILURE!
+org.opentest4j.AssertionFailedError: 
+
+expected: 200 OK
+ but was: 503 SERVICE_UNAVAILABLE
+	at java.base/jdk.internal.reflect.DirectConstructorHandleAccessor.newInstance(DirectConstructorHandleAccessor.java:62)
+	at java.base/java.lang.reflect.Constructor.newInstanceWithCaller(Constructor.java:502)
+	at com.shopscale.config.ConfigServerApplicationTest.configServerIsRunning(ConfigServerApplicationTest.java:32)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+

@@ -1,0 +1,3 @@
+com\shopscale\order\repository\OrderRepositoryTest.class
+com\shopscale\order\service\OrderServiceTest.class
+com\shopscale\order\service\OrderEventPublisherTest.class
