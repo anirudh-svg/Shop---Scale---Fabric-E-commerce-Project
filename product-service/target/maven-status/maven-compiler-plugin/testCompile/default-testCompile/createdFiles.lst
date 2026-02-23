@@ -1,0 +1,3 @@
+com\shopscale\product\service\ProductServiceCachingIntegrationTest.class
+com\shopscale\product\repository\ProductRepositoryTest.class
+com\shopscale\product\service\ProductServiceTest.class

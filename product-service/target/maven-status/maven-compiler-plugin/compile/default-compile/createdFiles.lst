@@ -1,0 +1,12 @@
+com\shopscale\product\domain\Product.class
+com\shopscale\product\controller\ProductController.class
+com\shopscale\product\mapper\ProductMapper.class
+com\shopscale\product\ProductServiceApplication.class
+com\shopscale\product\exception\GlobalExceptionHandler$ErrorResponse.class
+com\shopscale\product\exception\ProductNotFoundException.class
+com\shopscale\product\dto\CreateProductRequest.class
+com\shopscale\product\config\RedisConfig.class
+com\shopscale\product\service\ProductService.class
+com\shopscale\product\exception\GlobalExceptionHandler.class
+com\shopscale\product\dto\ProductResponse.class
+com\shopscale\product\repository\ProductRepository.class

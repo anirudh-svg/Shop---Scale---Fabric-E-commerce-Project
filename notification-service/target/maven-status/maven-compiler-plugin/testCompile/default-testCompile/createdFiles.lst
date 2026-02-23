@@ -1,0 +1,5 @@
+com\shopscale\notification\service\NotificationHistoryServiceTest.class
+com\shopscale\notification\listener\OrderEventListenerTest.class
+com\shopscale\notification\service\DeadLetterQueueServiceTest.class
+com\shopscale\notification\NotificationServiceApplicationTest.class
+com\shopscale\notification\service\EmailServiceTest.class

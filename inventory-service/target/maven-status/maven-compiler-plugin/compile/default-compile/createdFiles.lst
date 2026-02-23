@@ -1,0 +1,15 @@
+com\shopscale\inventory\exception\GlobalExceptionHandler.class
+com\shopscale\inventory\event\OrderPlacedEvent.class
+com\shopscale\inventory\repository\InventoryRepository.class
+com\shopscale\inventory\controller\InventoryController.class
+com\shopscale\inventory\dto\InventoryResponse.class
+com\shopscale\inventory\InventoryServiceApplication.class
+com\shopscale\inventory\exception\InsufficientInventoryException.class
+com\shopscale\inventory\domain\InventoryItem.class
+com\shopscale\inventory\dto\UpdateInventoryRequest.class
+com\shopscale\inventory\exception\InventoryNotFoundException.class
+com\shopscale\inventory\service\InventoryService.class
+com\shopscale\inventory\config\KafkaConfig.class
+com\shopscale\inventory\event\InventoryUpdatedEvent.class
+com\shopscale\inventory\listener\OrderEventListener.class
+com\shopscale\inventory\event\OrderItemEvent.class

@@ -1,0 +1,16 @@
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\notification-service\src\main\java\com\shopscale\notification\config\KafkaConfig.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\notification-service\src\main\java\com\shopscale\notification\config\RetryConfig.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\notification-service\src\main\java\com\shopscale\notification\controller\DeadLetterQueueController.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\notification-service\src\main\java\com\shopscale\notification\controller\NotificationController.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\notification-service\src\main\java\com\shopscale\notification\domain\NotificationHistory.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\notification-service\src\main\java\com\shopscale\notification\domain\NotificationStatus.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\notification-service\src\main\java\com\shopscale\notification\domain\NotificationType.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\notification-service\src\main\java\com\shopscale\notification\event\OrderItemEvent.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\notification-service\src\main\java\com\shopscale\notification\event\OrderPlacedEvent.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\notification-service\src\main\java\com\shopscale\notification\exception\EmailSendingException.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\notification-service\src\main\java\com\shopscale\notification\exception\GlobalExceptionHandler.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\notification-service\src\main\java\com\shopscale\notification\listener\OrderEventListener.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\notification-service\src\main\java\com\shopscale\notification\NotificationServiceApplication.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\notification-service\src\main\java\com\shopscale\notification\service\DeadLetterQueueService.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\notification-service\src\main\java\com\shopscale\notification\service\EmailService.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\notification-service\src\main\java\com\shopscale\notification\service\NotificationHistoryService.java

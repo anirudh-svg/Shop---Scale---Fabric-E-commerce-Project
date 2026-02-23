@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.shopscale.notification.service.DeadLetterQueueServiceTest
+-------------------------------------------------------------------------------
+Tests run: 5, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.120 s -- in com.shopscale.notification.service.DeadLetterQueueServiceTest

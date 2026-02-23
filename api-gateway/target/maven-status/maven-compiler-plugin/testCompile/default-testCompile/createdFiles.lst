@@ -1,0 +1,5 @@
+com\shopscale\gateway\filter\LoggingFilterTest.class
+com\shopscale\gateway\config\RateLimitConfigTest.class
+com\shopscale\gateway\util\JwtUtilTest.class
+com\shopscale\gateway\ApiGatewayApplicationTest.class
+com\shopscale\gateway\controller\FallbackControllerTest.class

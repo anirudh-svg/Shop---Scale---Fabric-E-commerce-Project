@@ -1,0 +1,4 @@
+com\shopscale\inventory\repository\InventoryRepositoryTest.class
+com\shopscale\inventory\service\InventoryServiceTest.class
+com\shopscale\inventory\listener\OrderEventListenerIntegrationTest.class
+com\shopscale\inventory\config\TestKafkaConfig.class

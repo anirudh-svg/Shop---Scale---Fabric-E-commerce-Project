@@ -1,0 +1,3 @@
+com\shopscale\cart\service\PriceServiceTest.class
+com\shopscale\cart\integration\CircuitBreakerIntegrationTest.class
+com\shopscale\cart\service\CartServiceTest.class

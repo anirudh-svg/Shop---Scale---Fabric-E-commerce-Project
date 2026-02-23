@@ -3,13 +3,13 @@
 ## Overview
 Week 1 focused on establishing the microservices infrastructure foundation and implementing the core Order Service. This week laid the groundwork for the entire ShopScale Fabric platform with service discovery, centralized configuration, and event-driven order processing.
 
-##  Week 1 Goals Achieved
-- ✅ Establish microservices infrastructure foundation
-- ✅ Setup service discovery with Eureka Server
-- ✅ Configure centralized configuration management
-- ✅ Implement Order Service with PostgreSQL and Kafka event publishing
-- ✅ Enable Virtual Threads for high-concurrency processing
-- ✅ Create comprehensive test coverage
+## Week 1 Goals Achieved
+- Establish microservices infrastructure foundation
+- Setup service discovery with Eureka Server
+- Configure centralized configuration management
+- Implement Order Service with PostgreSQL and Kafka event publishing
+- Enable Virtual Threads for high-concurrency processing
+- Create comprehensive test coverage
 
 ## Project Structure Created
 
@@ -25,7 +25,7 @@ shopscale-fabric/
 └── order-service/                  # Order Management Service
 ```
 
-##  Infrastructure Services Implemented
+## Infrastructure Services Implemented
 
 ### 1. **Eureka Server** (Port: 8761)
 - **Purpose**: Service discovery and registration
@@ -53,7 +53,7 @@ shopscale-fabric/
 - **Zipkin** (Port: 9411) - Distributed tracing
 - **Keycloak** (Port: 8180) - Identity provider
 
-##  Order Service Implementation
+## Order Service Implementation
 
 ### Core Features
 - **Virtual Threads**: Java 21 Project Loom for high-concurrency
@@ -95,7 +95,7 @@ OrderItem {
 - **Reliability**: Idempotent producer with retries
 - **Async Support**: Virtual Thread-based async publishing
 
-##  Testing Implementation
+## Testing Implementation
 
 ### Test Coverage
 - **Unit Tests**: Service layer with Mockito
@@ -109,7 +109,7 @@ OrderItem {
 - **Event Publisher**: Sync and async publishing tests
 - **Infrastructure**: Health check and configuration tests
 
-##  Configuration Management
+## Configuration Management
 
 ### Service Configurations
 Each service has dedicated configuration files in Config Server:
@@ -123,7 +123,7 @@ Each service has dedicated configuration files in Config Server:
 - **Docker**: Container deployment
 - **Test**: Unit/integration testing
 
-##  Performance Features
+## Performance Features
 
 ### Virtual Threads (Project Loom)
 - **Tomcat Integration**: Virtual thread per request
@@ -136,7 +136,7 @@ Each service has dedicated configuration files in Config Server:
 - **Indexing**: Strategic database indexes
 - **Migrations**: Flyway for schema management
 
-## 📊 Monitoring & Observability
+## Monitoring & Observability
 
 ### Health Checks
 - **Actuator Endpoints**: /actuator/health, /info, /metrics
@@ -148,7 +148,7 @@ Each service has dedicated configuration files in Config Server:
 - **Log Levels**: Environment-specific configuration
 - **Correlation IDs**: Request tracing support
 
-## 🔐 Security Foundation
+## Security Foundation
 
 ### Authentication Ready
 - **Keycloak Integration**: OAuth2/OIDC provider
@@ -160,7 +160,7 @@ Each service has dedicated configuration files in Config Server:
 - **SQL Injection Prevention**: JPA parameterized queries
 - **Error Handling**: Secure error responses
 
-## 📦 Deployment Configuration
+## Deployment Configuration
 
 ### Docker Compose Services
 ```yaml
@@ -181,7 +181,7 @@ Each service has dedicated configuration files in Config Server:
 - **Health Checks**: Container readiness probes
 - **Environment Variables**: Externalized configuration
 
-## 🎯 What You Need to Do
+## What You Need to Do
 
 ### 0. **Prerequisites**
 **Install Java 21** (Required for Virtual Threads):
@@ -281,7 +281,7 @@ SELECT * FROM orders;
 SELECT * FROM order_items;
 ```
 
-## 🔄 Next Steps (Week 2 Preview)
+## Next Steps (Week 2 Preview)
 
 ### Upcoming Implementations
 1. **Product Service** - MongoDB-based catalog with Redis caching
@@ -294,7 +294,7 @@ SELECT * FROM order_items;
 - Product Service caching with Redis
 - Service-to-service communication via Eureka
 
-## 📈 Success Metrics
+## Success Metrics
 
 ### Week 1 Achievements
 - **Services Deployed**: 3/9 core services (33% complete)
@@ -309,7 +309,7 @@ SELECT * FROM order_items;
 - **Documentation**: Inline code documentation
 - **Configuration**: Externalized and environment-specific
 
-## 🎉 Week 1 Success!
+## Week 1 Success!
 
 The foundation of ShopScale Fabric is now solid and ready for Week 2 expansion. The infrastructure supports the full microservices architecture, and the Order Service demonstrates the platform's capabilities with high-performance, event-driven processing.
 

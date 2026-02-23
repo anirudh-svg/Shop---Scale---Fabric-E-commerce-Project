@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.shopscale.notification.listener.OrderEventListenerTest
+-------------------------------------------------------------------------------
+Tests run: 3, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 11.31 s -- in com.shopscale.notification.listener.OrderEventListenerTest

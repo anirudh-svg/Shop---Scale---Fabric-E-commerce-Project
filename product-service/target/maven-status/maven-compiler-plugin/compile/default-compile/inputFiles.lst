@@ -1,0 +1,11 @@
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\product-service\src\main\java\com\shopscale\product\config\RedisConfig.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\product-service\src\main\java\com\shopscale\product\controller\ProductController.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\product-service\src\main\java\com\shopscale\product\domain\Product.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\product-service\src\main\java\com\shopscale\product\dto\CreateProductRequest.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\product-service\src\main\java\com\shopscale\product\dto\ProductResponse.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\product-service\src\main\java\com\shopscale\product\exception\GlobalExceptionHandler.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\product-service\src\main\java\com\shopscale\product\exception\ProductNotFoundException.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\product-service\src\main\java\com\shopscale\product\mapper\ProductMapper.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\product-service\src\main\java\com\shopscale\product\ProductServiceApplication.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\product-service\src\main\java\com\shopscale\product\repository\ProductRepository.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\product-service\src\main\java\com\shopscale\product\service\ProductService.java

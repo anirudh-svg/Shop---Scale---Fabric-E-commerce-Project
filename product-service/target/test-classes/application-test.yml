@@ -1,0 +1,28 @@
+spring:
+  data:
+    mongodb:
+      host: localhost
+      port: 0 # Random port for embedded MongoDB
+      database: testdb
+  
+  cache:
+    type: redis
+  
+  cloud:
+    config:
+      enabled: false
+
+de:
+  flapdoodle:
+    mongodb:
+      embedded:
+        version: 7.0.2
+
+eureka:
+  client:
+    enabled: false
+
+logging:
+  level:
+    root: WARN
+    com.shopscale: INFO

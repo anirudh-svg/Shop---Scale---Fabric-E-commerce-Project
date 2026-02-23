@@ -1,0 +1,15 @@
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\inventory-service\src\main\java\com\shopscale\inventory\config\KafkaConfig.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\inventory-service\src\main\java\com\shopscale\inventory\controller\InventoryController.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\inventory-service\src\main\java\com\shopscale\inventory\domain\InventoryItem.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\inventory-service\src\main\java\com\shopscale\inventory\dto\InventoryResponse.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\inventory-service\src\main\java\com\shopscale\inventory\dto\UpdateInventoryRequest.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\inventory-service\src\main\java\com\shopscale\inventory\event\InventoryUpdatedEvent.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\inventory-service\src\main\java\com\shopscale\inventory\event\OrderItemEvent.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\inventory-service\src\main\java\com\shopscale\inventory\event\OrderPlacedEvent.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\inventory-service\src\main\java\com\shopscale\inventory\exception\GlobalExceptionHandler.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\inventory-service\src\main\java\com\shopscale\inventory\exception\InsufficientInventoryException.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\inventory-service\src\main\java\com\shopscale\inventory\exception\InventoryNotFoundException.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\inventory-service\src\main\java\com\shopscale\inventory\InventoryServiceApplication.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\inventory-service\src\main\java\com\shopscale\inventory\listener\OrderEventListener.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\inventory-service\src\main\java\com\shopscale\inventory\repository\InventoryRepository.java
+C:\Users\Anirudhan\Desktop\ShopScale Fabric\inventory-service\src\main\java\com\shopscale\inventory\service\InventoryService.java
